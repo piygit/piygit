@@ -1,80 +1,148 @@
 <div align="center">
 
-# Piyush Sharma
-
-### Full Stack Engineer · Product Designer · AI Builder
-
-Building digital products where engineering precision meets design intuition.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=280&color=0:0F0F12,50:17171C,100:0F0F12&text=Piyush%20Sharma&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Engineer%20•%20Product%20Designer%20•%20AI%20Builder&descSize=18&descAlignY=58"/>
 
 <br>
 
-<a href="https://github.com/piygit">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=flat-square&logo=github">
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=3500&pause=1200&color=7F77DD&center=true&vCenter=true&width=900&lines=Building+products+at+the+intersection+of+engineering+and+design;Crafting+AI-powered+experiences;Shipping+beautiful+software+with+obsessive+attention+to+detail"/>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="60%">
+
+# Hey, I'm Piyush
+
+I build modern digital products across:
+
+- Full Stack Engineering
+- Artificial Intelligence
+- Product Design
+- Mobile Development
+- Interactive Experiences
+
+Focused on creating software that feels effortless.
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFmY2JjNzQ4ODI4N2Q4ZmQ5MzA4YzhlYzM5NjA5NjI4MTA0MzQ2NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+# Current Focus
+
+<table>
+<tr>
+
+<td width="33%">
+
+### AI
+
+- LLM Applications
+- AI Workflows
+- Agent Systems
+- GenAI Products
+
+</td>
+
+<td width="33%">
+
+### Engineering
+
+- React Ecosystem
+- Next.js
+- Node.js
+- System Design
+
+</td>
+
+<td width="33%">
+
+### Design
+
+- Figma
+- Design Systems
+- UI Architecture
+- Motion Design
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,dart,react,nextjs,nodejs,flutter,django,mongodb,mysql,firebase,gcp,tailwind,threejs,figma&perline=9"/>
 
 </div>
 
 ---
 
-## About
+# Live Analytics
 
-I build products across the intersection of software, design, and artificial intelligence.
+<div align="center">
 
-My work focuses on creating experiences that are technically robust, visually refined, and genuinely useful.
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=piygit&show_icons=true&hide_border=true&theme=transparent"/>
 
-Current interests include:
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piygit&layout=compact&hide_border=true&theme=transparent"/>
 
-- AI-powered applications
-- Product engineering
-- Modern web experiences
-- Design systems
-- Agentic workflows
-- Interactive interfaces
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=piygit&theme=transparent&hide_border=true"/>
+
+</div>
 
 ---
 
-## Selected Work
+# Activity Map
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piygit&bg_color=0d1117&color=7F77DD&line=1D9E75&point=EF9F27&hide_border=true"/>
+
+</div>
+
+---
+
+# Featured Products
 
 <table>
 <tr>
 
 <td width="50%">
 
-### AI Design Assistant
+<img src="./assets/project-1.png"/>
 
-An AI-powered design workflow tool focused on turning ideas into production-ready interfaces.
+### AI Design Platform
 
-Stack
-
-React · AI APIs · Tailwind · Node.js
+Generate and iterate UI ideas using AI.
 
 </td>
 
 <td width="50%">
 
-<img src="YOUR_SCREENSHOT_HERE" />
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<img src="YOUR_SCREENSHOT_HERE" />
-
-</td>
-
-<td width="50%">
+<img src="./assets/project-2.png"/>
 
 ### Interactive Portfolio
 
-A modern portfolio experience built with immersive interactions and real-time animations.
-
-Stack
-
-Three.js · React · GSAP
+Immersive web experiences built with Three.js.
 
 </td>
 
@@ -84,66 +152,48 @@ Three.js · React · GSAP
 
 <td width="50%">
 
-### Mobile Platform
+<img src="./assets/project-3.png"/>
 
-Cross-platform mobile application designed for performance and scalability.
+### Mobile Ecosystem
 
-Stack
-
-Flutter · Firebase · REST APIs
+Cross-platform Flutter applications.
 
 </td>
 
 <td width="50%">
 
-<img src="YOUR_SCREENSHOT_HERE" />
+<img src="./assets/project-4.png"/>
+
+### Full Stack Systems
+
+Modern scalable web applications.
 
 </td>
 
 </tr>
-
 </table>
 
 ---
 
-## Capabilities
+# Engineering Timeline
 
-| Engineering | AI | Design |
-|------------|------------|------------|
-| React | OpenAI | Figma |
-| Next.js | Anthropic | Design Systems |
-| Node.js | LLM Apps | User Experience |
-| Django | AI Agents | Visual Design |
-| Flutter | Automation | Branding |
+text 2022 ─ UI Design Systems  2022 ─ DSA Foundations  2023 ─ Mobile Development  2023 ─ Full Stack Engineering  2024 ─ AI Applications  2025 ─ AI Native Product Building 
 
 ---
 
-## Currently Exploring
+# Philosophy
 
-txt → Multi-agent systems  → AI-native products  → Advanced frontend architecture  → Human-centered AI experiences  → Interactive 3D web applications 
-
----
-
-## Development Philosophy
-
-> Great products happen when technology disappears and the experience becomes effortless.
-
-I care deeply about:
-
-- Clarity over complexity
-- Design as a competitive advantage
-- Shipping fast and learning faster
-- Building things people actually enjoy using
+> Great products are not built by code alone.
+>
+> They emerge when engineering,
+> design,
+> and user experience move as one system.
 
 ---
-
-## GitHub Snapshot
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=piygit&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piygit&layout=compact&hide_border=true&theme=transparent"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -151,6 +201,8 @@ I care deeply about:
 
 <div align="center">
 
-### Building the future, one product at a time.
+### Currently Building
+
+AI × Design × Product Experiences
 
 </div>
