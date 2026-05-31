@@ -1,26 +1,37 @@
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td>
-      <sub><code>// github.com/piygit</code></sub>
-      <h1>🚀 Piyush Sharma</h1>
-      <h3>Developer × Designer &nbsp;·&nbsp; Full Stack &nbsp;·&nbsp; DSA &nbsp;·&nbsp; GenAI</h3>
-      <p>Code on one side, <strong>creativity</strong> on the other. Building products at the intersection of <strong>engineering precision</strong> and <strong>design intuition</strong>.</p>
-      <img src="https://img.shields.io/badge/status-open%20to%20collabs%20%26%20opportunities-1D9E75?style=flat-radius&logo=github" alt="Status">
+<p align="right">
+  <code>// STATUS: OPEN TO OPPORTUNITIES</code> 
+  <img src="https://raw.githubusercontent.com/gist/necolas/8512165/raw/6cda50a41d06e2cfdf10705f42e39b71e16c9689/spinner.gif" width="10" height="10">
+</p>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr style="border: none; background: none;">
+    <td width="55%" valign="top" style="border: none; padding-right: 20px;">
+      <sup style="color: #7F77DD; font-family: monospace;">// github.com/piygit</sup>
+      <h1 style="font-family: 'Syne', 'Segoe UI', sans-serif; font-weight: 800; font-size: 2.5rem; margin-top: 4px; margin-bottom: 8px; line-height: 1.1;">Piyush Sharma</h1>
+      <p style="font-family: monospace; font-size: 11px; color: #9896a8; letter-spacing: 0.05em; margin-bottom: 16px;">
+        DEVELOPER × DESIGNER &nbsp;·&nbsp; FULL STACK &nbsp;·&nbsp; DSA &nbsp;·&nbsp; GenAI
+      </p>
+      <p style="color: #e8e6f0; line-height: 1.6; font-size: 14px;">
+        Code on one side, <strong>creativity</strong> on the other. Building infrastructure where <strong>engineering precision</strong> meets <strong>design intuition</strong>.
+      </p>
     </td>
-    <td align="right" width="320" valign="top">
-      <table bgcolor="#1a1a1e" width="100%" style="border-radius: 8px; border: 1px solid rgba(255,255,255,0.1);" cellpadding="12">
-        <tr>
-          <td>
-            <span style="color:#E24B4A">●</span> <span style="color:#EF9F27">●</span> <span style="color:#639922">●</span>
-            <br/><br/>
-            <code><span style="color:#7F77DD">~$</span> <span style="color:#1D9E75">whoami</span></code><br/>
-            <code><span style="color:#9896a8">piyush.sharma</span></code><br/>
-            <code><span style="color:#7F77DD">~$</span> <span style="color:#1D9E75">cat role.txt</span></code><br/>
-            <code><span style="color:#9896a8">└─ fullstack dev</span></code><br/>
-            <code><span style="color:#9896a8">└─ ui/ux designer</span></code><br/>
-            <code><span style="color:#9896a8">└─ genai builder</span></code><br/>
-            <code><span style="color:#7F77DD">~$</span> <span style="color:#1D9E75">cat vibe.txt</span></code><br/>
-            <code><span style="color:#e8e6f0">"ship it. make it beautiful."</span></code>
+    <td width="45%" valign="top" style="border: none;">
+      <table width="100%" bgcolor="#141416" style="border: 1px solid rgba(255,255,255,0.08); border-radius: 8px;" cellpadding="14">
+        <tr style="border: none;">
+          <td style="border: none;">
+            <div style="margin-bottom: 10px;">
+              <span style="color:#E24B4A; font-size: 14px;">●</span> 
+              <span style="color:#EF9F27; font-size: 14px;">●</span> 
+              <span style="color:#639922; font-size: 14px;">●</span>
+            </div>
+            <code style="font-size: 11px; line-height: 1.6; font-family: monospace; display: block;">
+              <span style="color:#7F77DD;">~$</span> <span style="color:#1D9E75;">whoami</span><br/>
+              <span style="color:#5a5868;">piyush.sharma</span><br/>
+              <span style="color:#7F77DD;">~$</span> <span style="color:#1D9E75;">cat role.txt</span><br/>
+              <span style="color:#5a5868;">- fullstack dev<br/>- ui/ux designer<br/>- genai builder</span><br/>
+              <span style="color:#7F77DD;">~$</span> <span style="color:#1D9E75;">cat vibe.txt</span><br/>
+              <span style="color:#e8e6f0;">"ship it. make it beautiful."</span>
+            </code>
           </td>
         </tr>
       </table>
@@ -28,146 +39,91 @@
   </tr>
 </table>
 
----
+<br/>
 
-### 📊 Core Engine Metrics
+### 📈 Engine Room Metrics
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/Total%20Commits-1.2k%2B-7F77DD?style=for-the-badge" alt="Total Commits">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr style="border: none; background: none;">
+    <td width="50%" valign="top" style="border: none; padding-right: 10px;">
+      <table width="100%" bgcolor="#141416" style="border: 1px solid rgba(255,255,255,0.08); border-radius: 8px;" cellpadding="12">
+        <tr style="border: none;"><td style="border: none;"><sub style="color: #5a5868; font-family: monospace;">// LANGUAGE BREAKDOWN</sub></td></tr>
+        <tr style="border: none;">
+          <td style="border: none;" align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piygit&theme=dark&layout=compact&hide_border=true&title_color=7F77DD&icon_color=1D9E75&bg_color=141416&text_color=9896a8" width="100%" alt="Language Breakdown">
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/Repositories-34-1D9E75?style=for-the-badge" alt="Repositories">
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/Stars%20Earned-87-EF9F27?style=for-the-badge" alt="Stars Earned">
+    <td width="50%" valign="top" style="border: none; padding-left: 10px;">
+      <table width="100%" bgcolor="#141416" style="border: 1px solid rgba(255,255,255,0.08); border-radius: 8px;" cellpadding="12">
+        <tr style="border: none;"><td style="border: none;"><sub style="color: #5a5868; font-family: monospace;">// REPOSITORY ANALYTICS</sub></td></tr>
+        <tr style="border: none;">
+          <td style="border: none;" align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=piygit&theme=dark&show_icons=true&hide_border=true&title_color=7F77DD&icon_color=EF9F27&bg_color=141416&text_color=9896a8" width="100%" alt="Piyush's GitHub Stats">
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<table width="100%" cellpadding="10" cellspacing="0" border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📦 Language Breakdown & Activity</h4>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piygit&theme=dark&layout=compact&langs_count=6&card_width=380" alt="Top Langs" width="100%">
+### 🛠️ Ecosystem Configuration
+
+<table width="100%" border="0" cellpadding="4" cellspacing="0" style="font-family: monospace; font-size: 13px;">
+  <tr style="background: none; border: none;">
+    <td width="25%" style="border-bottom: 1px solid rgba(255,255,255,0.05); color: #7F77DD;"><strong>[languages]</strong></td>
+    <td style="border-bottom: 1px solid rgba(255,255,255,0.05); color: #e8e6f0;">JavaScript, Python, C++, Dart, Java, Swift, HTML/CSS</td>
+  </tr>
+  <tr style="background: none; border: none;">
+    <td style="border-bottom: 1px solid rgba(255,255,255,0.05); color: #1D9E75;"><strong>[frameworks]</strong></td>
+    <td style="border-bottom: 1px solid rgba(255,255,255,0.05); color: #e8e6f0;">React, React Native, Flutter, Node.js, Django, TailwindCSS, Three.js</td>
+  </tr>
+  <tr style="background: none; border: none;">
+    <td style="border-bottom: 1px solid rgba(255,255,255,0.05); color: #EF9F27;"><strong>[data/infra]</strong></td>
+    <td style="border-bottom: 1px solid rgba(255,255,255,0.05); color: #e8e6f0;">TensorFlow, Firebase, MongoDB, MySQL, Google Cloud Platform</td>
+  </tr>
+  <tr style="background: none; border: none;">
+    <td style="border-bottom: 1px solid rgba(255,255,255,0.05); color: #E24B4A;"><strong>[creative]</strong></td>
+    <td style="border-bottom: 1px solid rgba(255,255,255,0.05); color: #e8e6f0;">Figma, Adobe Illustrator, After Effects, Photoshop, Premiere Pro</td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr style="border: none; background: none;">
+    <td width="50%" valign="top" style="border: none; padding-right: 15px;">
+      <h3>⚡ Current Processes (`stdout`)</h3>
+      <table width="100%" bgcolor="#141416" style="border: 1px solid rgba(255,255,255,0.08); border-radius: 8px;" cellpadding="12">
+        <tr style="border: none;">
+          <td style="border: none; font-family: monospace; font-size: 12px; line-height: 1.7; color: #9896a8;">
+            <b style="color: #7F77DD;">→</b> AI design optimization tools via Anthropic API pipelines.<br/>
+            <b style="color: #1D9E75;">→</b> High-fidelity, cross-platform architecture using Flutter.<br/>
+            <b style="color: #EF9F27;">→</b> 3D interactive web matrix using WebGL & Three.js.
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="50%" valign="top">
-      <h4>🔥 Contribution Metrics</h4>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=piygit&theme=dark" alt="GitHub Streak" width="100%">
+    <td width="50%" valign="top" style="border: none; padding-left: 15px;">
+      <h3>⏳ Dev Timeline</h3>
+      <table width="100%" bgcolor="#141416" style="border: 1px solid rgba(255,255,255,0.08); border-radius: 8px;" cellpadding="12">
+        <tr style="border: none;">
+          <td style="border: none; font-family: monospace; font-size: 11px; line-height: 1.6; color: #9896a8;">
+            <strong style="color: #e8e6f0;">2024 — Pres.</strong> // GenAI & LLM System Integrations<br/>
+            <strong style="color: #e8e6f0;">2023 — Pres.</strong> // Full Stack Production (React/Node)<br/>
+            <strong style="color: #e8e6f0;">2023 — 2023</strong> // Native Mobile Framework Layouts<br/>
+            <strong style="color: #e8e6f0;">2022 — Pres.</strong> // System Design Core UI Engine Assembly<br/>
+            <strong style="color: #e8e6f0;">2022 — 2022</strong> // 500+ Algorithms Solved (C++/Java Core)
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
 
----
-
-### 🛠️ Ecosystem & Tech Stack
-
-<table>
-  <tr>
-    <td width="180"><strong>Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript-EF9F27?style=flat&logo=javascript&logoColor=black" alt="JS">
-      <img src="https://img.shields.io/badge/Python-378ADD?style=flat&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/C++-5DCAA5?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
-      <img src="https://img.shields.io/badge/Java-D85A30?style=flat&logo=openjdk&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/Dart-7F77DD?style=flat&logo=dart&logoColor=white" alt="Dart">
-      <img src="https://img.shields.io/badge/HTML5/CSS3-1D9E75?style=flat&logo=html5&logoColor=white" alt="HTML">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Frameworks & Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-7F77DD?style=flat&logo=react&logoColor=white" alt="React">
-      <img src="https://img.shields.io/badge/Flutter-378ADD?style=flat&logo=flutter&logoColor=white" alt="Flutter">
-      <img src="https://img.shields.io/badge/Node.js-639922?style=flat&logo=node.js&logoColor=white" alt="Node">
-      <img src="https://img.shields.io/badge/Django-1D9E75?style=flat&logo=django&logoColor=white" alt="Django">
-      <img src="https://img.shields.io/badge/TensorFlow-EF9F27?style=flat&logo=tensorflow&logoColor=white" alt="TF">
-      <img src="https://img.shields.io/badge/Firebase-EF9F27?style=flat&logo=firebase&logoColor=white" alt="Firebase">
-      <img src="https://img.shields.io/badge/MongoDB-639922?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Design Systems</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Figma-E24B4A?style=flat&logo=figma&logoColor=white" alt="Figma">
-      <img src="https://img.shields.io/badge/Adobe_Illustrator-EF9F27?style=flat&logo=adobeillustrator&logoColor=white" alt="AI">
-      <img src="https://img.shields.io/badge/Adobe_Photoshop-378ADD?style=flat&logo=adobephotoshop&logoColor=white" alt="PS">
-      <img src="https://img.shields.io/badge/After_Effects-7F77DD?style=flat&logo=adobeaftereffects&logoColor=white" alt="AE">
-    </td>
-  </tr>
-</table>
-
-#### 🎯 Domain Depth Proficiency
-
-Frontend Development (90%)
 <br/>
-<img src="https://geps.dev/progress/90?dangerColor=7F77DD&warningColor=7F77DD&successColor=7F77DD" alt="Frontend Depth" width="70%">
-
-Design Systems & UI/UX (88%)
-<br/>
-<img src="https://geps.dev/progress/88?dangerColor=E24B4A&warningColor=E24B4A&successColor=E24B4A" alt="Design Depth" width="70%">
-
-Data Structures & Algorithms (80%)
-<br/>
-<img src="https://geps.dev/progress/80?dangerColor=378ADD&warningColor=378ADD&successColor=378ADD" alt="DSA Depth" width="70%">
-
-Backend Architecture (75%)
-<br/>
-<img src="https://geps.dev/progress/75?dangerColor=1D9E75&warningColor=1D9E75&successColor=1D9E75" alt="Backend Depth" width="70%">
-
-GenAI / Machine Learning (65%)
-<br/>
-<img src="https://geps.dev/progress/65?dangerColor=5DCAA5&warningColor=5DCAA5&successColor=5DCAA5" alt="AI Depth" width="70%">
-
----
-
-### 🧭 Timeline & Engine Room
-
-<table width="100%" cellpadding="10" cellspacing="0" border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⏳ Evolution Sequence</h4>
-      <ul>
-        <li><strong>GenAI & LLM Apps</strong> <br/> <small><code>2024 → Now</code> · TensorFlow, API pipelines, intelligent agents</small></li>
-        <li><strong>Full Stack Projects</strong> <br/> <small><code>2023 → Now</code> · React + Node + Firebase production pipelines</small></li>
-        <li><strong>Mobile Engineering</strong> <br/> <small><code>2023</code> · Cross platform development via Flutter & React Native</small></li>
-        <li><strong>Design Systems</strong> <br/> <small><code>2022 → Now</code> · Visual architecture using Figma & Creative Suite</small></li>
-        <li><strong>DSA Core</strong> <br/> <small><code>2022</code> · 500+ logic patterns resolved across C++ and Java</small></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ Running Pipelines (`stdout`)</h4>
-      <code>▶ AI-powered design orchestration tool w/ Anthropic API</code><br/><br/>
-      <code>▶ Cross-platform consumer application via Flutter ecosystem</code><br/><br/>
-      <code>▶ High-performance interactive 3D WebGL engine w/ Three.js</code>
-      <br/><br/>
-      <blockquote>
-        <em>"Code is design. Design is code. The boundary is a lie." — piygit</em>
-      </blockquote>
-    </td>
-  </tr>
-</table>
-
----
 
 ### 🌐 System Interconnects
-
-<table cellpadding="4" cellspacing="0" border="0">
-  <tr>
-    <td><a href="https://linkedin.com/in/piyush-sharma-a8249430a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-piyush--sharma--a8249430a-378ADD?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a></td>
-    <td><a href="https://github.com/piygit" target="_blank"><img src="https://img.shields.io/badge/GitHub-piygit-888780?style=for-the-badge&logo=github" alt="GitHub"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://medium.com/@piyush.shrma05" target="_blank"><img src="https://img.shields.io/badge/Medium-@piyush.shrma05-5F5E5A?style=for-the-badge&logo=medium" alt="Medium"></a></td>
-    <td><a href="https://x.com/@peiyush_x" target="_blank"><img src="https://img.shields.io/badge/X_Twitter-@peiyush__x-2C2C2A?style=for-the-badge&logo=x" alt="X"></a></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><a href="mailto:piyush.shrma05@gmail.com"><img src="https://img.shields.io/badge/Email-piyush.shrma05%40gmail.com-D85A30?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a></td>
-  </tr>
-</table>
-
----
-<p align="center"><sub>// crafted with precision & code · piygit</sub></p>
