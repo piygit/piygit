@@ -1,72 +1,156 @@
 <div align="center">
 
-# PIYUSH.OS
+# Piyush Sharma
 
-bash boot sequence initialized... 
+### Full Stack Engineer · Product Designer · AI Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=14&duration=3000&pause=1000&color=7F77DD&center=true&vCenter=true&width=700&lines=developer.loading();designer.loading();genai.loading();system.ready();" />
+Building digital products where engineering precision meets design intuition.
+
+<br>
+
+<a href="https://github.com/piygit">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=flat-square&logo=github">
+</a>
 
 </div>
 
 ---
 
-## ~/whoami
+## About
 
-yaml name: Piyush Sharma  class: Builder  modes:   - Full Stack Engineering   - Design Systems   - Artificial Intelligence  mission:   Transform ideas into products people love.  status:   Online  location:   Earth 
+I build products across the intersection of software, design, and artificial intelligence.
 
----
+My work focuses on creating experiences that are technically robust, visually refined, and genuinely useful.
 
-## ~/ls skills/
+Current interests include:
 
-txt . ├── frontend │   ├── React │   ├── Next.js │   ├── Tailwind │   └── Three.js │ ├── backend │   ├── Node.js │   ├── Django │   ├── MongoDB │   └── MySQL │ ├── mobile │   ├── Flutter │   └── React Native │ ├── ai │   ├── OpenAI │   ├── Anthropic │   ├── TensorFlow │   └── LLM Apps │ └── design     ├── Figma     ├── Illustrator     ├── Photoshop     └── Motion 
-
----
-
-## ~/running-processes
-
-txt PID      PROCESS ────────────────────────────────────────────── 001      Building AI applications 002      Designing user experiences 003      Learning advanced agent systems 004      Creating interactive web experiences 005      Shipping products 
-
----
-
-## ~/cat philosophy.txt
-
-Code should feel invisible.
-
-Users should remember the experience,
-not the implementation.
-
-Design is how software communicates.
+- AI-powered applications
+- Product engineering
+- Modern web experiences
+- Design systems
+- Agentic workflows
+- Interactive interfaces
 
 ---
 
-## ~/system-monitor
+## Selected Work
+
+<table>
+<tr>
+
+<td width="50%">
+
+### AI Design Assistant
+
+An AI-powered design workflow tool focused on turning ideas into production-ready interfaces.
+
+Stack
+
+React · AI APIs · Tailwind · Node.js
+
+</td>
+
+<td width="50%">
+
+<img src="YOUR_SCREENSHOT_HERE" />
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<img src="YOUR_SCREENSHOT_HERE" />
+
+</td>
+
+<td width="50%">
+
+### Interactive Portfolio
+
+A modern portfolio experience built with immersive interactions and real-time animations.
+
+Stack
+
+Three.js · React · GSAP
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### Mobile Platform
+
+Cross-platform mobile application designed for performance and scalability.
+
+Stack
+
+Flutter · Firebase · REST APIs
+
+</td>
+
+<td width="50%">
+
+<img src="YOUR_SCREENSHOT_HERE" />
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## Capabilities
+
+| Engineering | AI | Design |
+|------------|------------|------------|
+| React | OpenAI | Figma |
+| Next.js | Anthropic | Design Systems |
+| Node.js | LLM Apps | User Experience |
+| Django | AI Agents | Visual Design |
+| Flutter | Automation | Branding |
+
+---
+
+## Currently Exploring
+
+txt → Multi-agent systems  → AI-native products  → Advanced frontend architecture  → Human-centered AI experiences  → Interactive 3D web applications 
+
+---
+
+## Development Philosophy
+
+> Great products happen when technology disappears and the experience becomes effortless.
+
+I care deeply about:
+
+- Clarity over complexity
+- Design as a competitive advantage
+- Shipping fast and learning faster
+- Building things people actually enjoy using
+
+---
+
+## GitHub Snapshot
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=piygit&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=piygit&show_icons=true&hide_border=true&theme=transparent"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piygit&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piygit&layout=compact&hide_border=true&theme=transparent"/>
 
 </div>
 
 ---
 
-## ~/career.log
+<div align="center">
 
-txt [2022] Started UI & Design Systems  [2022] DSA Foundations  [2023] Mobile Development  [2023] Full Stack Engineering  [2024] Artificial Intelligence  [NOW ] Building AI Native Products 
+### Building the future, one product at a time.
 
----
-
-## ~/currently-building
-
-javascript const focus = {   ai: true,   fullStack: true,   design: true,   learning: "never stops" } 
-
----
-
-## ~/connect
-
-bash github.com/piygit 
-
----
-
-bash shutdown? [n] 
+</div>
