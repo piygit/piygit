@@ -119,67 +119,7 @@ Focused on creating software that feels effortless.
 
 </div>
 
----
 
-# Featured Products
-
-<table>
-<tr>
-
-<td width="50%">
-
-<img src="./assets/project-1.png"/>
-
-### AI Design Platform
-
-Generate and iterate UI ideas using AI.
-
-</td>
-
-<td width="50%">
-
-<img src="./assets/project-2.png"/>
-
-### Interactive Portfolio
-
-Immersive web experiences built with Three.js.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<img src="./assets/project-3.png"/>
-
-### Mobile Ecosystem
-
-Cross-platform Flutter applications.
-
-</td>
-
-<td width="50%">
-
-<img src="./assets/project-4.png"/>
-
-### Full Stack Systems
-
-Modern scalable web applications.
-
-</td>
-
-</tr>
-</table>
-
----
-
-# Engineering Timeline
-
-text 2022 ─ UI Design Systems  2022 ─ DSA Foundations  2023 ─ Mobile Development  2023 ─ Full Stack Engineering  2024 ─ AI Applications  2025 ─ AI Native Product Building 
-
----
 
 # Philosophy
 
