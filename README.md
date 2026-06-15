@@ -36,6 +36,35 @@ I'm a CS student building **PhiloLance** — a creative & dev agency. Currently 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=piygit&theme=tokyo-night&hide_border=true&point=00d4ff&line=ff006e&bg_color=0d1117)](https://github.com/piygit)
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piygit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00d4ff&icon_color=ff006e)
+
+</div>
+
+---
+
+## 🔥 Contribution Activity
+
+<div align="center">
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=piygit&theme=tokyo-night&hide_border=true&point=00d4ff&line=ff006e&bg_color=0d1117)](https://github.com/piygit)
+
+</div>
+
+---
+
+## 📈 Top Languages
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piygit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00d4ff&border_color=30363d)
+
+</div>
+
+---
 
 ## 🔗 Connect With Me
 
