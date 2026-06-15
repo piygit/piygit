@@ -25,10 +25,15 @@ I'm a CS student building **PhiloLance** — a creative & dev agency. Currently 
 **Status:** Open for projects | Currently building
 
 ---
+## 📊 GitHub Stats
 
-## 📊 My Contribution Graph
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piygit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00d4ff&icon_color=ff006e)](https://github.com/piygit)
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=piyush-sharma&theme=tokyo-night&hide_border=true&point=00d4ff&line=ff006e&bg_color=0d1117)](https://github.com/piyush-sharma)
+---
+
+## 📈 My Contribution Graph
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=piygit&theme=tokyo-night&hide_border=true&point=00d4ff&line=ff006e&bg_color=0d1117)](https://github.com/piygit)
 
 ---
 
