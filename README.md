@@ -4,7 +4,7 @@
 
 **Developer × Designer | Building Philolance**
 
-*Shipping real projects from Moradabad, India* 🚀
+*Shipping real projects from Earth* 🚀
 
 </div>
 
