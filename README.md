@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Developer × Designer | Building PhiloLance**
+**Developer × Designer | Building Philolance**
 
 *Shipping real projects from Moradabad, India* 🚀
 
@@ -12,9 +12,9 @@
 
 ## 🎯 About Me
 
-I'm a CS student building **PhiloLance** — a creative & dev agency. Currently learning DSA, full-stack development, and AI/ML while delivering real client projects.
+I'm a CS student building **Philolance** — a creative & dev agency. Currently learning DSA, full-stack development, and AI/ML while delivering real client projects.
 
-## 🚀 PhiloLance Agency
+## 🚀 Philolance Agency
 
 **What we do:**
 - 🎨 Graphic Design, Logo Design, Branding
@@ -61,7 +61,7 @@ I'm a CS student building **PhiloLance** — a creative & dev agency. Currently 
 | **LinkedIn** | https://www.linkedin.com/in/piyush-sharma-a8249430a/ |
 | **Twitter/X** | https://x.com/peiyush_x?s=11 |
 | **Email** | piyush.shrma05@gmail.com |
-| **PhiloLance** | https://linkedin.com/company/philolance |
+| **Philolance** | https://linkedin.com/company/philolance |
 
 ---
 
