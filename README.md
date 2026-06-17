@@ -1,4 +1,4 @@
-# Hi, I'm Piyush 👋
+# Hi, I'm Piyush 
 
 <div align="center">
 
@@ -10,21 +10,21 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 I'm a CS student building **Philolance** — a creative & dev agency. Currently learning DSA, full-stack development, and AI/ML while delivering real client projects.
 
-## 🚀 Philolance Agency
+## Philolance Agency
 
 **What we do:**
-- 🎨 Graphic Design, Logo Design, Branding
-- 📹 Video Editing, Motion Graphics, Social Media Design
-- 💻 Web Development, Mobile Apps, Full-Stack
-- 🤖 Machine Learning, Data Science, AI Automations & Solutions
+- Graphic Design, Logo Design, Branding
+- Video Editing, Motion Graphics, Social Media Design
+- Web Development, Mobile Apps, Full-Stack
+- Machine Learning, Data Science, AI Automations & Solutions
 
 **Status:** Open for projects | Currently building
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -34,7 +34,7 @@ I'm a CS student building **Philolance** — a creative & dev agency. Currently 
 
 ---
 
-## 🔥 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -44,7 +44,7 @@ I'm a CS student building **Philolance** — a creative & dev agency. Currently 
 
 ---
 
-## 📈 Top Languages
+## Top Languages
 
 <div align="center">
 
@@ -54,7 +54,7 @@ I'm a CS student building **Philolance** — a creative & dev agency. Currently 
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 | Platform | Link |
 |----------|------|
